@@ -1,8 +1,7 @@
 #include <iostream>
 #include <string>
 #include <iomanip>
-#include <cctype>
-#include <limits>
+
 
 using namespace std;
 class Vehicle {
